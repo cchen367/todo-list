@@ -1,0 +1,13 @@
+.App {
+  margin-left: 200px;
+}
+
+.wrapper {
+  width: 1000px;
+  background: #d4d9d6;
+}
+
+.todoWrapper {
+  color: black;
+  background: #929296;
+}
